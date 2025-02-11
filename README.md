@@ -1,7 +1,7 @@
 
 # 📌 Guia Completo de Comandos Git
 
-> Um guia prático e visual para aprender os comandos essenciais do Git 🚀
+
 
 ---
 
